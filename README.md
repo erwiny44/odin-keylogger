@@ -1,4 +1,4 @@
-# Odin M1 by ErWin
+# Odin M3 by ErWin
 
 Meet with Odin M3 Cyber Defense Tool!
 
