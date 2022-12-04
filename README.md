@@ -6,5 +6,3 @@ It is a multi-purpose keylogger that can capture information from normal key inf
 
 Developed by ErWin
 ---------------------
-
-Have a nice day!
